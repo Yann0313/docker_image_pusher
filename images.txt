@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 cloudflare/cloudflared:1580-a57fc25b5410
+zerotier/zerotier:latest
+
